@@ -53,6 +53,7 @@
 
 @snap[south span-100]
 @ul[spaced text-white]
+- You will be amazed if the list thing actually works
 - [Cross-origin resource sharing @fa[external-link]](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served
 @ulend
 @snapend
