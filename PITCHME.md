@@ -8,24 +8,30 @@
 #### What is Cross-origin Resource Sharing (CORS)?
 @snapend
 
-@snap[west span-50]
-@ul[spaced text-black]
-- Cross-origin resource sharing is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served
-@ulend
-@snapend
-
-@snap[east span-50]
-![](assets/img/simplecors.png)
+@snap[west span-100]
+@quote[Cross-origin resource sharing is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served]
 @snapend
 
 @snap[south span-100]
-[Cross-origin Resource Sharing Wikipedia @fa[external-link]](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
+#### [Cross-origin Resource Sharing Wikipedia @fa[external-link]](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
 @snapend
 
 ---
-## What's an origin?
 @snap[north-west]
-@ul[spaced text-white]
+#### What is Cross-origin Resource Sharing (CORS)?
+@snapend
+
+@snap[west span-100]
+![](assets/img/simplecors.png)
+@snapend
+
+---
+@snap[north-west]
+#### What's an origin?
+@snapend
+
+@snap[west span-100]
+@ul[spaced text-black]
 - @quote[...user-agents group URIs together into protection domains called “origins”. Roughly speaking, two URIs are part of the same origin (i.e., represent the same principal) if they have the same scheme, host, and port...]
 - [The Web Origin Concept](https://www.ietf.org/rfc/rfc6454.txt)
 @ulend
