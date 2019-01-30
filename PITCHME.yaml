@@ -1,4 +1,4 @@
-# GitPitch In-60-Seconds - A Very Short Tutorial.
+# GitPitch Development Roundtable
 #
 
 #
@@ -17,7 +17,7 @@ theme-override: assets/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : assets/img/logo.png
+logo : assets/img/lunar_logo.png
 logo-postion : top-left
 
 #
@@ -30,18 +30,10 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "Development Roundtable - CORS and XSS"
 
 #
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published
 #
 published : true
-
-#
-# Twitter Card Settings [Pro Only]
-# Doc: https://gitpitch.com/docs/settings/twitter-card
-#
-title : "GitPitch In 60 Seconds"
-description : "A short tutorial introducing the power and simplicity of GitPitch, the markdown presentation service on Git."
-thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
